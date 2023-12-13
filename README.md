@@ -86,8 +86,8 @@ In my tech toolkit, you'll find skills in HTML5, CSS3, JavaScript(es6+), react.j
     <li>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-        </a>
         <span>Next.js</span>
+        </a>
     </li>
 </ul>
 
@@ -96,8 +96,8 @@ In my tech toolkit, you'll find skills in HTML5, CSS3, JavaScript(es6+), react.j
     <li>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-        </a>
         <span>Postman</span>
+        </a>
     </li>
     <li>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
