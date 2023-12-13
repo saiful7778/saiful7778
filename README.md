@@ -1,4 +1,4 @@
-![React.js developer](https://media.licdn.com/dms/image/D5616AQGRomVuJ766AA/profile-displaybackgroundimage-shrink_350_1400/0/1702466228861?e=1707955200&v=beta&t=l823v0LUrXHsRA8bO18MEbMn6-h3XT3gDyzlFj40TmE)
+![Profile banner](https://raw.githubusercontent.com/saiful7778/saiful7778/main/profile-banner.png)
 
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <h3 align="center">React.js developer</h3>
@@ -24,104 +24,58 @@ In my tech toolkit, you'll find skills in HTML5, CSS3, JavaScript(es6+), react.j
 - 📫 How to reach me **saiful.islam.rafi.88@gmail.com**
 
 <h3 align="left">Technology:</h3>
-<ul>
-    <li>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-            <span>HTML5</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-            <span>CSS3</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-            <span>Javascript(es6+)</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-            <span>Tailwindcss</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-            <span>React.js</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-            <span>Git</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-            <span>Firebase(google)</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-            <span>Node.js</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-            <span>Express.js</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-            <span>MongoDB</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-        <span>Next.js</span>
-        </a>
-    </li>
-</ul>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
 
 <h3 align="left">Tools:</h3>
-<ul>
-    <li>
-        <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="postman" width="40" height="40"/>
-        <span>VS-code</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-        <span>Postman</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-            <span>Linux</span>
-        </a>
-    </li>
-</ul>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 
 <h3 align="left">My Current Stats :</h3>
-<div align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiful7778&layout=compact&hide=python,cython&theme=dark" width="21.6%" alt="Top Langs"  />
-<img src="https://github-readme-stats.vercel.app/api?username=saiful7778&show_icons=true&count_private=true&theme=dark&rank_icon=github" width="28.5%" alt="GitHub stats"  />
+<div align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiful7778&layout=compact&hide=python,cython&theme=dark" width="40%" alt="Top Langs"  />
+<img src="https://github-readme-stats.vercel.app/api?username=saiful7778&show_icons=true&count_private=true&theme=dark&rank_icon=github" width="52.5%" alt="GitHub stats"  />
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiful7778&theme=dark" width="50%" alt="GitHub streak stats"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiful7778&theme=dark" width="100%" alt="GitHub streak stats"  />
 </div>
 
 <h3>My amazing projects: </h3>
